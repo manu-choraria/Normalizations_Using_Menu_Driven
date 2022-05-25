@@ -9,12 +9,15 @@ Data normalisation is a common machine learning technique that involves converti
 There are mainly three types of normalization techniques:
 
 1. min-max normalization: To convert data value between a specified new minimum and maximum value. The user need to specify old minumum, old maximum, new minimum and new maximum values to perform the normaalization. Let v denotes old data value and v' denotes corresponding new data value, then:
+
 ![image](https://user-images.githubusercontent.com/92246789/170271112-093d65c6-9091-4722-b1d9-ccac3328990c.png)
 
 2. Z-score normalization: The z-score method (also known as standardisation) converts data into a distribution with a mean of zero and a standard deviation of one.
+
 ![image](https://user-images.githubusercontent.com/92246789/170271705-38f93d82-80e6-4ef5-ac13-bc34021533dc.png)
 
 3. Decimal Scaling: It normalizes the data value between the range 0 to 1.
+
 ![image](https://user-images.githubusercontent.com/92246789/170271940-d7381acc-b024-4695-806b-ba7efa909062.png)
 
 # Python code implentation
