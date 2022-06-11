@@ -20,5 +20,5 @@ There are mainly three types of normalization techniques:
 
 ![image](https://user-images.githubusercontent.com/92246789/170271940-d7381acc-b024-4695-806b-ba7efa909062.png)
 
-# Python code implentation
+# Python code implementation
 We have used only simple menu driven if-else looping to perform the all normalization techniques.
